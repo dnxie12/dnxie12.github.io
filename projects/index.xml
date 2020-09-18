@@ -12,11 +12,20 @@
     
     
     <item>
-      <title>Project</title>
-      <link>https://dnxie12.github.io/projects/project/</link>
+      <title>Tokenizer</title>
+      <link>https://dnxie12.github.io/projects/tokenizer/</link>
       <pubDate>Thu, 17 Sep 2020 20:44:56 -0400</pubDate>
       
-      <guid>https://dnxie12.github.io/projects/project/</guid>
+      <guid>https://dnxie12.github.io/projects/tokenizer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Storify</title>
+      <link>https://dnxie12.github.io/projects/storify/</link>
+      <pubDate>Mon, 18 Nov 2019 21:06:36 -0400</pubDate>
+      
+      <guid>https://dnxie12.github.io/projects/storify/</guid>
       <description></description>
     </item>
     

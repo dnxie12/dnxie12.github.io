@@ -6,35 +6,26 @@
     <description>Recent content on Danny Xie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Sep 2020 20:44:56 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2020 21:08:58 -0400</lastBuildDate>
     
 	<atom:link href="https://dnxie12.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Project</title>
-      <link>https://dnxie12.github.io/projects/project/</link>
+      <title>Tokenizer</title>
+      <link>https://dnxie12.github.io/projects/tokenizer/</link>
       <pubDate>Thu, 17 Sep 2020 20:44:56 -0400</pubDate>
       
-      <guid>https://dnxie12.github.io/projects/project/</guid>
+      <guid>https://dnxie12.github.io/projects/tokenizer/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Tokenizer</title>
-      <link>https://dnxie12.github.io/posts/tokenizer/</link>
-      <pubDate>Thu, 17 Sep 2020 20:30:45 -0400</pubDate>
+      <title>Storify</title>
+      <link>https://dnxie12.github.io/projects/storify/</link>
+      <pubDate>Mon, 18 Nov 2019 21:06:36 -0400</pubDate>
       
-      <guid>https://dnxie12.github.io/posts/tokenizer/</guid>
-      <description>The following is a post about the basic tokenizer I built</description>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>https://dnxie12.github.io/posts/my-first-post/</link>
-      <pubDate>Fri, 11 Sep 2020 14:02:27 -0400</pubDate>
-      
-      <guid>https://dnxie12.github.io/posts/my-first-post/</guid>
+      <guid>https://dnxie12.github.io/projects/storify/</guid>
       <description></description>
     </item>
     
