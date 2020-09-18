@@ -3,11 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://dnxie12.github.io/categories/</loc>
+    <loc>https://dnxie12.github.io/</loc>
+    <lastmod>2020-09-17T20:44:56-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dnxie12.github.io/</loc>
+    <loc>https://dnxie12.github.io/projects/project/</loc>
+    <lastmod>2020-09-17T20:44:56-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dnxie12.github.io/projects/</loc>
+    <lastmod>2020-09-17T20:44:56-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dnxie12.github.io/posts/</loc>
+    <lastmod>2020-09-17T20:30:45-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dnxie12.github.io/posts/tokenizer/</loc>
+    <lastmod>2020-09-17T20:30:45-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dnxie12.github.io/posts/my-first-post/</loc>
+    <lastmod>2020-09-11T14:02:27-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dnxie12.github.io/categories/</loc>
   </url>
   
   <url>
